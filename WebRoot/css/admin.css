@@ -1,0 +1,46 @@
+@CHARSET "UTF-8";
+	body{background:url('../images/admin_bg13.png');
+}
+	.show{width: 900px;min-height: 400px;margin-left: 18%;
+}
+	.searchzone{width:900px;
+}	
+	a{text-decoration: none;color:green;font-size: 15px;line-height: 24px;
+}
+	a:hover{color:red;
+}
+	.text{border-color:red;
+}
+	#searchBtn{width:100px;height:23px;background-color:green;
+	font-weight: bold;border-color:green;
+}
+	#meau{background-color:green; text-align: center;color:red;
+}
+#searchform select{
+	border-color: green;
+}
+#empty{
+	margin:0px auto;text-align:center;height: 400px;
+}
+#empty p{
+	line-height: 50px;	
+}
+#pageZone {width:500px; margin:-40px 0px 0px 185px; padding:6px 0px; height:80px;
+}
+#pageZone ul{
+	list-style: none;
+}
+#pageZone ul li,#pageZone select { float:left; border:1px solid #5d9cdf;width:50px;
+	height:20px; line-height:20px; margin:0px 3px;margin-top: 40px;text-align: center;
+}
+#pageZone ul li a, .pageinfo { display:block; padding:0px 6px; background:#e6f2fe;
+}
+.pageinfo  { color:#555;
+}
+#pageZone a { color:#333; text-decoration:none;
+}
+#pageZone select{
+	float:left;width:60px;height:22px;background:#e6f2fe;
+}
+#pageZone a:HOVER,#pageZone select:HOVER{ color:orange;
+}

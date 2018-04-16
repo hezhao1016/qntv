@@ -1,0 +1,54 @@
+@CHARSET "UTF-8";
+*{
+	margin: opx auto;
+}
+#max{
+	width: 100%;font-size: 16px;
+}
+	body{background:url('../images/admin_bg13.png');
+}
+a{
+	text-decoration: none;color:green;font-size: 15px;line-height: 24px;
+}
+a:hover{color:red;
+}
+#userZone{
+	height: 72.8%;
+}
+#pic{
+	float: left;margin-left: 8%; border-bottom:solid 3px white;
+	border-left:solid 3px white;border-right:solid 3px white;
+	
+}
+#MessageInfo,#userCaoZuo{
+	float: left;
+}
+#messTable{
+	font-size: 18px;
+	color:gray;font-weight: bold;
+}
+.leftMessage{
+	text-align: left;
+}
+.mess_tr{
+	height: 40px;
+}
+#title{
+	background:url('../images/admin_bg14.jpg');
+	width:20%;text-align: center;
+	font-size: 22px;font-weight: bold;color:green;
+}
+#userCaoZuo{
+	margin-top: -1.13%;margin-left: 0px;
+}
+#czList{
+	list-style-type: none;border:solid 2px silver;width:130px;
+	background-color: scrollbar;text-align: center;height:148px;
+}
+#czList li{
+	line-height: 20px;margin-left: -15%;
+}
+#firstList{
+	font-size: 18px;
+	color:gray;font-weight: bold;
+}	

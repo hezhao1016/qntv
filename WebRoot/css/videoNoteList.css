@@ -1,0 +1,81 @@
+@CHARSET "UTF-8";
+@CHARSET "UTF-8";
+	a{text-decoration: none;color:black;font-size: 15px;line-height: 24px;
+}
+	a:hover{color:red;
+}
+	ul{list-style-type: none;
+}
+	body{
+	background:url('../images/admin_bg13.png');
+}
+	#menu{
+	background:url('../images/admin_bg14.jpg');text-align: center;color:black;
+}
+#empty{
+	margin:0px auto;text-align: center;height: 400px;
+}
+#empty p{
+	line-height: 50px;
+}
+.show{
+	width:1100px;height:1550px;min-height: 721px;margin-left: 9.6%;background: white;
+}
+#videoShowList{
+	width:1000px;min-height: 351px;margin-left: 66.5px;height:1400px;
+}
+.movie_ul{
+	width:175px; height:325px;margin:0px;padding:0px;
+	float:left;overflow:hidden;margin-left:9px;margin-right:9px;margin-top:9px;
+}
+#open{
+	float:left;overflow:hidden;text-align: center;
+	height:60px;width:950px;
+}
+#open p a{
+	line-height:40px; width:40px;
+	border:1px solid #5d9cdf;background:#e6f2fe;
+}
+.m_jieshao{
+	height:16px;
+}
+li{
+	list-style:none;font-size:14px;width:175px;overflow:hidden;
+}
+.m_name{
+	line-height:25px;
+}
+.m_gray{
+	color:gray;margin-right:2px;
+}
+.m_date{
+	color:gray;font-size:15px;line-height:20px;
+}
+.m_del,#all_td,.note,#quxiao{
+	display:none;	
+}
+#pageZone {width:500px; margin:0px 0px 0px 291.5px; padding:6px 0px; height:80px;
+}
+#pageZone ul li,#pageZone select { float:left; border:1px solid #5d9cdf;width:50px;
+	height:20px; line-height:20px; margin:0px 3px;margin-top: 40px;text-align: center;
+}
+#pageZone ul li a, .pageinfo { display:block; padding:0px 6px; background:#e6f2fe;
+}
+.pageinfo  { color:#555;
+}
+#pageZone a { color:#333; text-decoration:none;
+}
+#pageZone select{
+	width:60px;height:22px;background:#e6f2fe;
+}
+#pageZone a:HOVER,#pageZone select:HOVER{ color:orange;
+}
+#all_td:HOVER {
+	color:red;
+}
+.m_name{
+	font-weight: bold;
+}
+#pageZone ul{
+	list-style: none;
+}

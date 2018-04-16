@@ -1,0 +1,31 @@
+@CHARSET "UTF-8";
+	a{text-decoration: none;color:highlight;font-size: 15px;line-height: 24px;
+}
+	a:hover{color:red;
+}
+	ul{list-style-type: none;
+}
+	.show p{text-align: center;
+}
+	.text{border:1px red solid;
+}
+	body{background:url('../images/admin_bg13.png');
+}
+	.show{width: 700px;height: 185px;margin-left:450px;margin-top: 100px;margin-bottom: 367px;
+}
+	.btn{width:90px;height:30px;background-color:green;
+	border-color:green;font-weight: bold;
+}
+	#bott{margin-top: 40px;margin-left: 130px;text-align: left;
+}
+	input,select{
+	border:1px #333333 solid;	
+}
+#t_title_Zone{
+	background:url('../images/admin_bg14.jpg');text-align: center;	width:100%;
+	height:60px;margin-top:-20px;
+	font-size: 22px;font-weight: bold;color:green;margin-bottom: 20px;
+}
+#title{
+	line-height:60px;
+}
